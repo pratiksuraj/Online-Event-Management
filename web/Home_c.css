@@ -1,0 +1,70 @@
+
+#header
+{
+        position:absolute;
+        background-color:black;
+        top:0px;
+	width:100%;
+	height:500px;
+}
+
+
+
+#header #head1
+{
+	color:white;
+        left:200px;
+	top:40px;
+	position:fixed;
+       
+}
+
+#header #session
+{
+	color:white;
+        left:500px;
+	top:3px;
+	position:fixed;
+       
+}
+
+#header #headbar
+{
+	position:fixed;
+	top:0px;
+	width:100%;
+	height:100px;
+	/*background-color:red;*/
+        background: linear-gradient(to bottom, Red, Black 100%);
+        
+}
+
+
+
+#header #headbar h1
+{
+	
+	position:fixed;
+	left:150px;
+	top:3px;
+	color:yellow;
+}
+
+#header #headbar #logo
+{
+    position:fixed;
+    z-index: 99;
+    top:0px;
+    
+}
+
+#header #image
+{
+    position:absolute;
+    top:100px;
+}
+
+#btext
+{
+    color:white;
+}

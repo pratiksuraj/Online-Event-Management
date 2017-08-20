@@ -1,0 +1,37 @@
+#headbar
+{
+	position:fixed;
+	top:0px;
+	width:100%;
+	height:100px;
+	/*background-color:red;*/
+        background: linear-gradient(to bottom, Red, black 100%);
+        
+}
+#headbar #head1
+{
+	color:white;
+        left:200px;
+	top:45px;
+	position:fixed;
+       
+}
+
+
+
+#headbar h1
+{
+	
+	position:fixed;
+	left:150px;
+	top:3px;
+	color:yellow;
+}
+
+#headbar #logo
+{
+    position:fixed;
+    z-index: 99;
+    top:0px;
+    
+}
